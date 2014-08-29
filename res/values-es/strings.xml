@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MovilQuiz</string>
+    <string name="action_settings">Configuracion</string>
+    <string name="question_text">Un widget no provee informacion visual.</string>
+    <string name="score">Score</string>
+    <string name="scorenum">0</string>
+    <string name="true_button">Verdadero</string>
+    <string name="false_button">Falso</string>
+    <string name="correct_toast">Correcto!</string>
+    <string name="incorrect_toast">Incorrecto!</string>
+    <string name="finish_toast">Felicitaciones!</string>
+    
+    <string name="next_button">Siguiente</string>
+    
+<string name="question_1">Android es un SO basado en el kernel linux </string>
+<string name="question_2">Android es una pltaforma de codigo privado.</string>
+<string name="question_3">Android no es una plataforma especialmente diseñada para los dispositivos móviles.</string>
+<string name="question_4">Si la plataforma es de código abierto, el desarrollador no puede tener acceso al código fuente.</string>
+<string name="question_5">Una matriz es un objeto contenedor que contiene un número fijo de valores de un tipo específico.</string>
+<string name="question_6">Un programador debe poner la llamada a la red en un subproceso independiente que se ejecuta en segundo plano.</string>
+<string name="question_7">AsyncTask es un mecanismo Android creado para ayudar a manejar las operaciones cortas que deben informar al hilo de interfaz de usuario.</string>
+<string name="question_8">Una actividad es por lo general una sola pantalla que el usuario ve en el dispositivo en un momento.</string>
+<string name="question_9">Una aplicación normalmente no tiene actividades.</string>
+<string name="question_10">Los intents se encargan de poner en marcha alguna actividad.</string>
+<string name="question_11">Un intent debe ser explicito.</string>
+<string name="question_12">Los servicios nunca se ejecutan en segundo plano y no tienen ningun componente de interfaz de usuario.</string>
+<string name="question_13">Un servicio puede hacer las mismas tareas que una actividad.</string>  
+<string name="question_14">Una aplicación Android es un conjunto de actividades, servicios, proveedores de contenido y broadcast receivers.</string>
+  
+</resources>
